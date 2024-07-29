@@ -1,22 +1,13 @@
-- 👋 Hi, I’m Harsh Divecha!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-About Me
+# About Me
 👋 Hi, I’m Harsh Divecha! I'm passionate about Cybersecurity, focusing on protecting data, identifying threats, and building secure systems. My goal is to safeguard digital environments and ensure robust security measures.
 
-Current Role
+### Current Role
 🌱 I’m currently working as a Managed Service Technician at Xperience in London. My work involves threat analysis, vulnerability assessment, and implementing security protocols to protect organizational data.
 
-Collaboration Interests
+### Collaboration Interests
 💞️ I’m looking to collaborate on cybersecurity projects. If you have a project or an idea where cybersecurity can make a difference, I’d love to hear about it and work together to create secure and resilient systems.
 
-Cybersecurity Projects
+### Cybersecurity Projects
 🔒 Here are a few project ideas that I'm interested in and looking to collaborate on:
 
 Anomaly Detection in Network Traffic
@@ -42,14 +33,23 @@ Outcome: A comprehensive UBA system that helps in identifying and preventing ins
 Let's Connect
 If you're interested in collaborating on a cybersecurity project, feel free to reach out! I'm eager to contribute my skills and learn from new experiences.
 
-You can contact me via:
 
-Email: harsh.divecha@ymail.com
-LinkedIn: (https://www.linkedin.com/in/harsh-shailesh-divecha/)
-GitHub: [Your GitHub Profile]
+### 🛠 Skills
 
-Looking forward to connecting and collaborating with you!
-<!---
-Harsh-Divecha-1991/Harsh-Divecha-1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Programming Languages**: Python, R, Java
+
+**Data Manipulation and Analysis**: NumPy, Pandas, Matplotlib, Seaborn, Plotly
+
+**Tools & Technology**: Jupyter Notebook, PyCharm, Visual Studio Code, MySQL, Tableau, Power BI, MS Office
+
+**Database Management**: Microsoft SQL Server, PostgreSQL, MySQL Workbench, MongoDB
+
+**Statistical Analysis**: Descriptive statistics, Regression analysis, and Hypothesis testing
+
+
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nidhidivecha.github.io/Projects-Portfolio.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-divecha/)
+
+
