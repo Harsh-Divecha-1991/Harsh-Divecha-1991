@@ -1,5 +1,5 @@
 # About Me
-👋 Hi, I’m Harsh Divecha! I'm passionate about Cybersecurity, focusing on protecting data, identifying threats, and building secure systems. My goal is to safeguard digital environments and ensure robust security measures.
+👋 Hi, I’m Harsh Divecha! Cybersecurity enthusiast with First Class Honours MSc in IT Security and five years of experience in Information Technology. Possessing a solid foundation in cybersecurity, I am now eager to transition into an entry-level role where I can leverage my academic achievements, technical skills, industry certifications, a variety of CTFs, cybersecurity projects and labs. My enthusiasm for cybersecurity is complemented by a readiness to contribute immediately and make a meaningful impact on securing digital environments.
 
 ### Current Role
 🌱 I’m currently working as a Managed Service Technician at Xperience in London. My work involves threat analysis, vulnerability assessment, and implementing security protocols to protect organizational data.
